@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Test page!](/TestPage/T)
+[Test page!](/TestPage/TestPage.md)
 
 You can use the [editor on GitHub](https://github.com/hmycroft/hmycroft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
