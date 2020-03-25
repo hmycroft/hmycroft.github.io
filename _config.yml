@@ -3,3 +3,4 @@ description: Much like the title!
 theme: jekyll-theme-architect
 github:
   is_project_page: false
+  is_user_page: false
